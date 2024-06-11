@@ -12,16 +12,11 @@ Module and their Description:
 
 Screen Short :
 
+
+
 1. Splash Screen
-[![g.png](https://i.postimg.cc/2SjdH3vq/g.png)](https://postimg.cc/kBZtGJT9)
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/2SjdH3vq/g.png' border='0' alt='g'/></a>
-
 2. Login Screen
-[![2.png](https://i.postimg.cc/T2LtmkvK/2.png)](https://postimg.cc/8sGdgm5G)
-
 3. Registration Screen
-[![3.png](https://i.postimg.cc/bwkxNMbh/3.png)](https://postimg.cc/xXjJ66tx)
-
 4.Forgot Password Screen
 5. Home Screen
 6. Donation Screen
